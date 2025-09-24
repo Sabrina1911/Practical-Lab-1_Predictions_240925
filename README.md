@@ -193,15 +193,9 @@ Submission & Rubric: Push to GitHub, submit a PDF with repo URL; rubric covers s
 
 ---
 
-## ✅ Rubric Alignment
+## ✅ Rubric Alignment: **Visualization (0.5 pt)**
 
-- **Project Setup (1 pt)**: README, requirements, reproducible notebook with outputs.  
-- **DB Integration (1.5 pt)**: Connects to Neon and queries `readings_fact_csv`.  
-- **Streaming Simulation (1 pt)**: Uses TRAIN to synthesize TEST (regen/wilk), normalized/standardized as needed.  
-- **Regression & Residuals (2 pt)**: Time → Axis #1–#8 models with plots.  
-- **Thresholds (2 pt)**: Data‑driven MinC/MaxC/T with justification (2σ/3σ + persistence).  
-- **Alerts & Errors (2 pt)**: Implements logic and logs to `logs/events.csv`.  
-- **Visualization (0.5 pt)**: Clear overlays and legends in the notebook / exported PDF.
+- Visual Display : In Cell 18 & 19
 
 ---
 
